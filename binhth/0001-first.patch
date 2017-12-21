@@ -1,0 +1,21 @@
+From 71b041a645b83a16e8cf6ab5e4d50d2b30b9dc3d Mon Sep 17 00:00:00 2001
+From: Le Tien <tien.le@toshiba-tsdv.com>
+Date: Thu, 21 Dec 2017 16:31:13 +0700
+Subject: [PATCH 1/2] first
+
+---
+ binhth/README | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 binhth/README
+
+diff --git a/binhth/README b/binhth/README
+new file mode 100644
+index 0000000..8862e04
+--- /dev/null
++++ b/binhth/README
+@@ -0,0 +1,2 @@
++
++Hello World!
+-- 
+2.5.1.windows.1
+
